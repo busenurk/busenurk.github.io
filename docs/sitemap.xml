@@ -3,29 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2019-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/kunoichi/</loc>
-    <lastmod>2019-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2019-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/kunoichi/</loc>
-    <lastmod>2019-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/slumdown/</loc>
-    <lastmod>2019-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/about/</loc>
+  </url><url>
+    <loc>/blog/post1/</loc>
+  </url><url>
+    <loc>/blog/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/news/</loc>
   </url><url>
     <loc>/publications/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>

@@ -113,6 +113,10 @@ footnotereturnlinkcontents = "↩"
     avatar = "img/profile.JPG"
     author = "Busenur Kizilaslan"
 
-  
+ [params.social]
+  Github        = "busenurk"
+  Email         = "busenur.sarica@gmail.com"
+  LinkedIn      = "busenur-kızılaslan-795ab54a"
+
   
   
