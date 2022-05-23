@@ -9,7 +9,7 @@
 # GitHub pages the way I've done for the example site at
 # https://djnavarro.github.io/hugo-slum/, then you can do something
 # like this:
-baseurl = "/hugo-slum/"
+baseurl = "/hugo-sustain/"
 
 
 
@@ -27,7 +27,7 @@ publishDir = "docs"
 # These settings specify the title for your blog, and the name of
 # the Hugo theme that it uses.
 title = "Slumdown"
-theme = "hugo-slum"
+theme = "hugo-sustain"
 
 
 
@@ -54,9 +54,9 @@ footnotereturnlinkcontents = "↩"
 #     https://djnavarro.github.io/hugo-slum/post/getting-started/
 #
 [permalinks]
-    post = "/post/:slug/"
     project = "/project/:slug/"
-#
+
+
 # Alternative version:
 #   post = "/post/:year/:month/:day/:slug/"
 #   project = "/project/:year/:month/:day/:slug/"
@@ -69,27 +69,23 @@ footnotereturnlinkcontents = "↩"
 # Something to keep in mind for new users: you won't find
 # specific files that correspond to all of these pages. See
 # the documentation for an explanation of where they come from
-[[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
+
 [[menu.main]]
     name = "About"
     url = "/about/"
+    weight = 1
+[[menu.main]]
+    name = "News"
+    url = "/news/"
     weight = 2
 [[menu.main]]
-    name = "Posts"
-    url = "/post/"
+    name = "Publications"
+    url = "/publications/"
     weight = 3
 [[menu.main]]
-    name = "Projects"
-    url = "/project/"
+    name = "Blog"
+    url = "/blog/"
     weight = 4
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 5
-
 
 
 # Parameters used in various places throughout the site.
@@ -112,5 +108,11 @@ footnotereturnlinkcontents = "↩"
     siteProfile = "header/my_profile.png"
     twitterImage = "https://djnavarro.github.io/hugo-slum/header/slumdown.png"
     colourScheme = "css/palette_dark.css"
-    description = "A website built using slumdown."
+    description = "A Personal Web Page"
     footer = "&copy; [Danielle Navarro](https://djnavarro.net) 2018--2019 | [Github](https://github.com/djnavarro) | [Twitter](https://twitter.com/djnavarro)"
+    avatar = "img/profile.JPG"
+    author = "Busenur Kizilaslan"
+
+  
+  
+  
