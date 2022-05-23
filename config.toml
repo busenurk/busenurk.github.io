@@ -104,12 +104,8 @@ footnotereturnlinkcontents = "↩"
 # - "description" of the site
 # - "footer" contents
 [params]
-    siteHeader = "header/mpg_dark.png"
-    siteProfile = "header/my_profile.png"
-    twitterImage = "https://djnavarro.github.io/hugo-slum/header/slumdown.png"
     colourScheme = "css/palette_dark.css"
-    description = "A Personal Web Page"
-    footer = "&copy; [Danielle Navarro](https://djnavarro.net) 2018--2019 | [Github](https://github.com/djnavarro) | [Twitter](https://twitter.com/djnavarro)"
+    description = "🌿 Busenur Kizilaslan Personal Web Page"
     avatar = "img/profile.JPG"
     author = "Busenur Kizilaslan"
 
