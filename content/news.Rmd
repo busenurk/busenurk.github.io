@@ -4,6 +4,5 @@ title: News
 
 |         |       |      |
 |:------------|:------------|:------------|
-Jun 7, 2022 | &nbsp;&nbsp;&nbsp;&nbsp; Participating in [AIB](https://researchschool.w.uib.no) | &nbsp;&nbsp;&nbsp;&nbsp; Bergen | 
 Jun 3, 2022  | &nbsp;&nbsp;&nbsp;&nbsp; Participating in [NordStar Workshop](https://www.oslomet.no/en/about/events/trustworthiness-sustainability-ai) | &nbsp;&nbsp;&nbsp;&nbsp; Oslo |
-
+May 24, 2022 | &nbsp;&nbsp;&nbsp;&nbsp; Participating in [Ethical AI in Practice](https://www.nora.ai/events/NORA.startup-Ethical-AI-in-Practice) | &nbsp;&nbsp;&nbsp;&nbsp; Oslo | 
