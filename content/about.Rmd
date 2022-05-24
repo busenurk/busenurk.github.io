@@ -6,7 +6,7 @@ I am a research assistant at the Department of [Statistics], Marmara University,
 
 In 2018, I won the second prize of Young Scientists Awards by presenting a part of my dissertation at [International Conference on Trends and Perspectives in Linear Statistical Inference (LinStat)] in Poland. 
 
-I am a member of [RLadies] and a volunteer for [LÖSEV]. Also, I like baking,  especially bread! 👩🏻‍🍳   and to do yoga thanks to [Müge Değirmenci! (Yoga Pan) ] 💛 
+I am a member of [RLadies], a volunteer for [Yeterly] and [LÖSEV]. Also, I like baking,  especially bread! 👩🏻‍🍳   and to do yoga thanks to [Müge Değirmenci! (Yoga Pan) ] 💛 
 
 \
 &nbsp;
@@ -26,3 +26,4 @@ I am a member of [RLadies] and a volunteer for [LÖSEV]. Also, I like baking,  e
 [Young Scientist Awards, The International Conference on Trends and Perspectives in Linear Statistical Inference (LinStat'2018), Poland]: https://www.tandfonline.com/doi/pdf/10.1080/03610918.2020.1720385
 [International Conference on Trends and Perspectives in Linear Statistical Inference (LinStat)]: http://www.linstat.ipt.pt/2022/
 [Müge Değirmenci! (Yoga Pan) ]: https://www.facebook.com/panyogaa/
+[Yeterly]: https://yeterly.com
