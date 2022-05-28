@@ -4,8 +4,9 @@ title: News
 
 |         |       |      |
 |:------------|:----------------------------|:------------|
-Jun 12, 2022 | &nbsp;&nbsp; Participating in [Yapay Öğrenme Sohbetleri](https://event.goartevent.com/isbank-koc-sanalogrenme/) | &nbsp;&nbsp;&nbsp;&nbsp; Online |
-Jun 3, 2022  | &nbsp;&nbsp; Participating in [NordStar Workshop](https://www.oslomet.no/en/about/events/trustworthiness-sustainability-ai) | &nbsp;&nbsp;&nbsp;&nbsp; Oslo |
-Jun 2, 2022 | &nbsp;&nbsp; Participating in [Champagne Coding: From Zero to Deep Learning HERO](https://www.meetup.com/Women-in-Data-Science-Oslo/events/285795242/) | &nbsp;&nbsp;&nbsp;&nbsp; Oslo |
-May 24, 2022 | &nbsp;&nbsp; Participating in [Ethical AI in Practice](https://www.nora.ai/events/NORA.startup-Ethical-AI-in-Practice) | &nbsp;&nbsp;&nbsp;&nbsp; Oslo | 
+Jun 12, 2022 | &nbsp; Participating in [Yapay Öğrenme Sohbetleri](https://event.goartevent.com/isbank-koc-sanalogrenme/) | &nbsp;&nbsp;&nbsp;&nbsp; Online |
+Jun 7, 2022 | &nbsp; Participating in [Research School in AI](https://researchschool.w.uib.no) | &nbsp;&nbsp;&nbsp;&nbsp; Online |
+Jun 3, 2022  | &nbsp; Participating in [NordStar Workshop](https://www.oslomet.no/en/about/events/trustworthiness-sustainability-ai) | &nbsp;&nbsp;&nbsp;&nbsp; Oslo |
+Jun 2, 2022 | &nbsp; Participating in [Champagne Coding: From Zero to Deep Learning HERO](https://www.meetup.com/Women-in-Data-Science-Oslo/events/285795242/) | &nbsp;&nbsp;&nbsp;&nbsp; Oslo |
+May 24, 2022 | &nbsp; Participating in [Ethical AI in Practice](https://www.nora.ai/events/NORA.startup-Ethical-AI-in-Practice) | &nbsp;&nbsp;&nbsp;&nbsp; Oslo | 
 
