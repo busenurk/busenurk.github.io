@@ -2,11 +2,11 @@
 title: About
 ---
 
-I am a research assistant at the Department of [Statistics], Marmara University, Turkey. In 2020, I obtained my PhD degree from Yıldız Technical University’s Department of Statistics, under the direction of [Erol Eğrioğlu] and [Atif Evren], and I received my master and bachelor degrees from Mimar Sinan Fine Arts University, Department of Statistics, under the direction of Erol Eğrioğlu and [Barış Aşıkgil].
+I am a research assistant at the Department of [Statistics], Marmara University and [NordSTAR](https://www.oslomet.no/en/nordstar), Oslo Metropolitan University. In 2020, I obtained my PhD degree from Yıldız Technical University’s Department of Statistics, under the direction of [Erol Eğrioğlu] and [Atif Evren], and I received my master and bachelor degrees from Mimar Sinan Fine Arts University, Department of Statistics, under the direction of Erol Eğrioğlu and [Barış Aşıkgil].
 
 In 2018, I won the second prize of Young Scientists Awards by presenting a part of my dissertation at [International Conference on Trends and Perspectives in Linear Statistical Inference (LinStat)] in Poland. 
 
-I am a member of [RLadies], a volunteer for [Yeterly] and [LÖSEV]. Also, I like baking,  especially bread! 👩🏻‍🍳   and to do yoga thanks to [Müge Değirmenci! (Yoga Pan) ] 💛 
+I am a member of [RLadies], a volunteer for [Yeterly], [LÖSEV] and [Fjord CleanUP]. Also, I like baking,  especially bread! 👩🏻‍🍳   and to do yoga thanks to [Müge Değirmenci! (Yoga Pan) ] 💛 
 
 \
 &nbsp;
@@ -27,3 +27,4 @@ I am a member of [RLadies], a volunteer for [Yeterly] and [LÖSEV]. Also, I like
 [International Conference on Trends and Perspectives in Linear Statistical Inference (LinStat)]: http://www.linstat.ipt.pt/2022/
 [Müge Değirmenci! (Yoga Pan) ]: https://www.facebook.com/panyogaa/
 [Yeterly]: https://yeterly.com
+[Fjord CleanUP]: https://www.fjordcleanup.no
