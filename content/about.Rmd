@@ -4,7 +4,7 @@ title: About
 
 I am a researcher at [PharmaSafe], University of Oslo to contribute to the [IMI concePTION] project. Also, I have been working on a trustworthy AI project at Oslo Metropolitan University for the last 3 months. Between 2014 and 2021, I worked as a research assistant at the Dept. of Statistics, Marmara University. I count myself lucky to work with such a talented group of people. In 2020, I obtained my PhD degree from Yıldız Technical University’s Department of Statistics. I received my master and bachelor degrees from Mimar Sinan Fine Arts University, Department of Statistics. In 2018, I won the second prize of Young Scientists Awards by presenting a part of my dissertation at [International Conference on Trends and Perspectives in Linear Statistical Inference (LinStat)] in Poland. 
 
-I am a member of [RLadies], a volunteer for [Yeterly], [LÖSEV] and [Fjord CleanUP] 🐳. 
+I am a member of [RLadies] and [NORA.startup], a volunteer for [Yeterly], [LÖSEV] and [Fjord CleanUP] 🐳. 
 
 \
 &nbsp;
@@ -40,3 +40,4 @@ slickR::slickR(
 [LinkedIn]: https://www.linkedin.com/in/busenur-kızılaslan-795ab54a/
 [shutterstock]: https://www.shutterstock.com/en/g/Busenur+Kizilaslan?rid=343729487
 [Monday Fjord CleanUPs in Tjuvholmen]: https://www.fjordcleanup.no
+[NORA.startup]: https://www.nora.ai/nora-startup/
